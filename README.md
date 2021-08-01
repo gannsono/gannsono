@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @元祖のヨッシーだよ～
+- 👋 Hi, I’m @元祖のヨッシー～
 - 👀 I’m interested in ...c++,java,c#,html,pyhton,Kotlin......
 - 🌱 I’m currently learning ...c++,py
 - 💞️ I’m looking to collaborate on ...?
